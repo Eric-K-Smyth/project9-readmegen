@@ -1,6 +1,7 @@
 # Project9-ReadmeGen
 https://youtu.be/4WkIUSsxJhE Link to how to use it
-
+![github com_Eric-K-Smyth_project9-readmegen_blob_main_Generated md (1)](https://github.com/Eric-K-Smyth/project9-readmegen/assets/130538145/5ac670e5-c9b7-4f22-8c5e-51afa7555fb1)
+An example generated readme
 ## Description
 This is a javascript application that asks questions about your project and generates a readme file for it. This is built to save time on projects by having a script to most of the readme work. 
 This application saves the user time on their projects. It taught me how to ustilize Node Package Manager and inquierer.
